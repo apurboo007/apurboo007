@@ -94,9 +94,9 @@ Hi! I'm **Apurba Raj Bhuyan**, a Computer Science & Engineering student who love
   
  <!-- Add your real links when ready -->
 🌐 **Portfolio / Coming Soon**  
-📧 **Email:** *your-email-here*  
-💼 **LinkedIn:** *(optional)*  
-🕹 **Discord / Gamer Tag:** *(optional to add)*  
+📧 **Email:** *bhuyanapurbo7@gmail.com*
+💼 **LinkedIn:** *https://www.linkedin.com/in/apurba-raj-bhuyan/*  
+🕹 **Discord / Gamer Tag:** *(https://www.linkedin.com/in/apurba-raj-bhuyan)*  
 
 </p>
 
